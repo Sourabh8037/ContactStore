@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://Sourabh123:Sourabh123@contactkeeper-shard-00-00-lon7e.mongodb.net:27017,contactkeeper-shard-00-01-lon7e.mongodb.net:27017,contactkeeper-shard-00-02-lon7e.mongodb.net:27017/<dbname>?ssl=true&replicaSet=ContactKeeper-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
